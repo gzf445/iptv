@@ -1,5 +1,5 @@
+sason.xyz,#genre#
 ver.2020.04.20,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-带★需科学上网,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 CCTV-1 综合 FHD,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV-2 财经 FHD,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-3 综艺 FHD,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
