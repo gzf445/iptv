@@ -135,9 +135,9 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="D.香港",有线新闻 ★
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-#EXTINF:-1 tvg-id="240" tvg-name="无线新闻" tvg-logo="http://tv.sason.xyz/logo/wxxw.png" group-title="D.香港",TVB 新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://tv.sason.xyz/logo/wxxw.png" group-title="D.香港",TVB 新闻
 http://yeyuaihao.gz01.bdysite.com/dl/tvb.php?id=inews
-#EXTINF:-1 tvg-id="241" tvg-name="无线财经	" tvg-logo="http://tv.sason.xyz/logo/wxcjxw.png" group-title="D.香港",TVB 财经新闻
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://tv.sason.xyz/logo/wxcjxw.png" group-title="D.香港",TVB 财经新闻
 http://yeyuaihao.gz01.bdysite.com/dl/tvb.php?id=j5_ch85
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="D.香港",C+
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
@@ -161,7 +161,7 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="E.台湾",三立iNews FHD ★
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="E.台湾",三立Live FHD ★
+#EXTINF:-1 tvg-id="" tvg-name="6072" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="E.台湾",三立Live FHD ★
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="E.台湾",台视新闻 FHD ★
 http://seb.sason.top/sc/tsxw_fhd.m3u8
