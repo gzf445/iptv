@@ -131,7 +131,7 @@ http://qlive.fengshows.cn/PIN.flv
 http://qlive.fengshows.cn/PHK.flv
 #EXTINF:-1 tvg-name="fhdy" tvg-logo="http://tv.sason.xyz/logo/fhdy.png" group-title="D.香港",凤凰电影
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-name="yxxw" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="D.香港",有线新闻
+#EXTINF:-1 tvg-id="240"  tvg-id="240"  tvg-name="yxxw" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="D.香港",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-name="yxxw" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="D.香港",有线新闻 ★
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
